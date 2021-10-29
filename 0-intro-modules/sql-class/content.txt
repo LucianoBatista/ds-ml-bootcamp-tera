@@ -1,0 +1,19 @@
+* Diferenciar bancos relacionais de bancos não-relacionais
+* Compreender os diferentes tipos de Diagramas de modelagem
+* Compreender os tipos de relações entre tabelas (1:1/ 1:n/ n:n)
+
+
+* Diferenciar ambientes analíticos e ambientes transacionais
+* Compreender a estrutura de um Data Warehouse
+* Compreender a estrutura de um Data Lake
+
+
+* Revisar os conceitos de banco relacional.
+* Conceituar chave primária.
+* Conceituar chave estrangeira.
+* Definir o SQL enquanto linguagem.
+* Utilizar o comando SELECT (Limit, Where, Order, Gorup by, Distinct).
+* Compreender os JOINS (Inner join, Outer join, left join, right join).
+* Conhecer os comandos insert, update, delete.
+* Conceituar ORM.
+* Utilizar Sqlalchemy.
